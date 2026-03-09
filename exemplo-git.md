@@ -3,7 +3,7 @@
 ### outro titulo
 
 ```````
-codio aqui
+codigo aqui
 ```````
 `git init`
 
