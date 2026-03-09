@@ -2,5 +2,9 @@
 ## subtitulo
 ### outro titulo
 
-''''
-cofigo aqui
+```````
+codio aqui
+```````
+`git init`
+
+`git add .`
